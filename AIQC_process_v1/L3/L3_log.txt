@@ -1,0 +1,15 @@
+Number of valid data:512
+Delta-T mean:34.01693388889237
+Delta-T standard deviation:1.252840225390835
+Delta-q mean:20.09895717259152
+Delta-q standard deviation:0.604608922602364
+Delta-RH mean:62.53137570321239
+Delta-RH standard deviation:3.03629291763637
+P delta-T dalta-Q delta-RH
+1000-1100 32.395604524478806 19.143359479982724 63.35321438111694
+900-1000 nan nan nan
+800-900 nan nan nan
+700-800 nan nan nan
+600-700 nan nan nan
+500-600 nan nan nan
+400-500 nan nan nan

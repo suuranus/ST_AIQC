@@ -1,0 +1,5 @@
+L1.csv
+-> launch time: 2019-07-14 13:24:57
+-> valid data / total data: 97/512 (18.945%)
+
+-> launch time: 2019-07-14 13:24:57
