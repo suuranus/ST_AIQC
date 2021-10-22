@@ -1,0 +1,3 @@
+run_all.sh : automatically apply QC_process to all the file in data
+run_specific_file.sh : apply QC process to specific file by giving ST_no in the back.
+for exmample: ./run_specific_file.sh 3261

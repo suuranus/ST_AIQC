@@ -1,0 +1,4 @@
+L4.csv
+-> resolution: 1 hPa
+-> Max P: 1000.8 hPa
+-> Min P: 299.0 hPa
